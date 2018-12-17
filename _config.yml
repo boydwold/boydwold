@@ -23,7 +23,7 @@ description: a simple blog and place for other social media links
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  Blog: ""
   About Me: "aboutme"
   Resources:
     - MarketAxess: "https://www.marketaxess.com"
