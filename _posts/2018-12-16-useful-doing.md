@@ -5,6 +5,13 @@ title: 'useful doing'
 category:
 - 
 tags:
-- 
+- thinking
+- doing
 ---
-When listening to well known people speak, I take a special interest when hearing frustration in their voice. Especially when preceded by an interesting question. More often than not, this is when the useful happens. Seth Godin is eloquent and simple. He spends time observing and simplifying his ideas until he understands. After venting about his frustration with unsolicited emails he said something like, “spending time learning to type 100 words per minute isn’t the important thing…writing good stuff is.” He hit upon this theme a few times in the same interview. That was useful. Writers block; idea generation dryness or overload; crippling decision paralysis. Seth says to just do something. Write badly if you have to. Just do it. If you’re paralyzed by decision overload, pick something from the at random and do it. Doing trumps everything. Doing is useful. The person doing wins. The person doing has a voice and the right to speak. Do you find that you are coming up with “good” exceptions to this rule? Are you thinking instead of doing?
+When listening to celebrities speak, I perk up when I hear frustration, especially when preceded by an interesting question. More often than not, this is when the "useful" information appears. 
+
+As an example, while I listened to Seth Godin, I heard this little nugget. After venting about his frustration with unsolicited emails asking for his advice on writing, he said, "spending time learning to type 100 words per minute is not the important thing…writing good stuff is." That was useful.
+
+Writer's block. Idea generation dryness or overload. Crippling decision paralysis. Seth says, "just to do something." Write badly if you have to. Just do it. If you are paralyzed by decision overload, pick something at random and do it. Doing trumps everything. Doing is useful — the person doing wins. The person doing has a voice and the right to speak. 
+
+Do you find that you are coming up with exceptions to this rule? Are you thinking instead of doing?
