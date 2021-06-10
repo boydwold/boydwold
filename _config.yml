@@ -101,7 +101,7 @@ url-pretty: "boydwold.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "G-NXMPC0ZBB8"
+gtag: "G-NXMPC0ZBB8"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: "G-NXMPC0ZBB8"
